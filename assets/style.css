@@ -1,0 +1,45 @@
+body{
+    font-family: 'Public Sans', sans-serif !important;
+}
+header{
+    background-color: #FFF;
+}
+.form-check {
+    display: block;
+    min-height: 1.5rem;
+    margin-bottom: 0.125rem;
+    padding: 10px 10px 10px 33px !important;
+    border: 1px solid #DDD;
+    border-radius: 8px;
+}
+.form-check:hover {
+    background-color: #EFEFEF;
+}
+label {
+    display: inline-block;
+    cursor: pointer;
+}
+button#botonAgregar {
+    background-color: #FD8600;
+    border: #FD8600;
+}
+.badge{
+    color: #333 !important;
+}
+span.badge.bg-primary.rounded-pill {
+    color: #FFF !important;
+    background-color: #333 !important;
+}
+.error .form-control {
+    border:1px solid #CC0000 !important; 
+}
+.border-secondary.error{
+    border:1px solid #CC0000 !important; 
+}
+.error{
+    color: #CC0000 !important; 
+}
+
+
+
+
